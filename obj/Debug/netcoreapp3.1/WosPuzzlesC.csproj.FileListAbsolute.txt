@@ -1,0 +1,13 @@
+C:\Users\Geo\code\wos\cSharp\WosPuzzlesC\bin\Debug\netcoreapp3.1\WosPuzzlesC.exe
+C:\Users\Geo\code\wos\cSharp\WosPuzzlesC\bin\Debug\netcoreapp3.1\WosPuzzlesC.deps.json
+C:\Users\Geo\code\wos\cSharp\WosPuzzlesC\bin\Debug\netcoreapp3.1\WosPuzzlesC.runtimeconfig.json
+C:\Users\Geo\code\wos\cSharp\WosPuzzlesC\bin\Debug\netcoreapp3.1\WosPuzzlesC.runtimeconfig.dev.json
+C:\Users\Geo\code\wos\cSharp\WosPuzzlesC\bin\Debug\netcoreapp3.1\WosPuzzlesC.dll
+C:\Users\Geo\code\wos\cSharp\WosPuzzlesC\bin\Debug\netcoreapp3.1\WosPuzzlesC.pdb
+C:\Users\Geo\code\wos\cSharp\WosPuzzlesC\obj\Debug\netcoreapp3.1\WosPuzzlesC.csprojAssemblyReference.cache
+C:\Users\Geo\code\wos\cSharp\WosPuzzlesC\obj\Debug\netcoreapp3.1\WosPuzzlesC.AssemblyInfoInputs.cache
+C:\Users\Geo\code\wos\cSharp\WosPuzzlesC\obj\Debug\netcoreapp3.1\WosPuzzlesC.AssemblyInfo.cs
+C:\Users\Geo\code\wos\cSharp\WosPuzzlesC\obj\Debug\netcoreapp3.1\WosPuzzlesC.csproj.CoreCompileInputs.cache
+C:\Users\Geo\code\wos\cSharp\WosPuzzlesC\obj\Debug\netcoreapp3.1\WosPuzzlesC.dll
+C:\Users\Geo\code\wos\cSharp\WosPuzzlesC\obj\Debug\netcoreapp3.1\WosPuzzlesC.pdb
+C:\Users\Geo\code\wos\cSharp\WosPuzzlesC\obj\Debug\netcoreapp3.1\WosPuzzlesC.genruntimeconfig.cache
